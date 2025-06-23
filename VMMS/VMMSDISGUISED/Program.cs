@@ -34,7 +34,7 @@ class Program
                     catch { /* ignore failures */ }
                 }
             }
-            Thread.Sleep(100); // check every 100 ms
+            Thread.Sleep(100)
         }
     }
 }
