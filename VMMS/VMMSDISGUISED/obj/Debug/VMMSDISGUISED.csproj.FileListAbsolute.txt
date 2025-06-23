@@ -1,0 +1,7 @@
+C:\Users\User\Documents\VMMSDISGUISED\VMMSDISGUISED\obj\Debug\VMMSDISGUISED.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VMMSDISGUISED\VMMSDISGUISED\obj\Debug\VMMSDISGUISED.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VMMSDISGUISED\VMMSDISGUISED\bin\Debug\VMMSDISGUISED.exe.config
+C:\Users\User\Documents\VMMSDISGUISED\VMMSDISGUISED\bin\Debug\VMMSDISGUISED.exe
+C:\Users\User\Documents\VMMSDISGUISED\VMMSDISGUISED\bin\Debug\VMMSDISGUISED.pdb
+C:\Users\User\Documents\VMMSDISGUISED\VMMSDISGUISED\obj\Debug\VMMSDISGUISED.exe
+C:\Users\User\Documents\VMMSDISGUISED\VMMSDISGUISED\obj\Debug\VMMSDISGUISED.pdb

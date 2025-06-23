@@ -1,0 +1,7 @@
+C:\Users\User\Documents\VMMS\VMMSDISGUISED\bin\Release\VMMSDISGUISED.exe.config
+C:\Users\User\Documents\VMMS\VMMSDISGUISED\bin\Release\VMMSDISGUISED.exe
+C:\Users\User\Documents\VMMS\VMMSDISGUISED\bin\Release\VMMSDISGUISED.pdb
+C:\Users\User\Documents\VMMS\VMMSDISGUISED\obj\Release\Virtual Machine Management.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VMMS\VMMSDISGUISED\obj\Release\Virtual Machine Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VMMS\VMMSDISGUISED\obj\Release\VMMSDISGUISED.exe
+C:\Users\User\Documents\VMMS\VMMSDISGUISED\obj\Release\VMMSDISGUISED.pdb
